@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dompet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_input_transaksi">InputTransaksi</string>
+    <string name="title_activity_about">About</string>
+
+</resources>
